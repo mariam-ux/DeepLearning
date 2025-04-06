@@ -1,0 +1,12 @@
+Activation: relu, Layers: 3, Training Time: 9.56s, Validation Accuracy: 0.9820
+Activation: relu, Layers: 5, Training Time: 9.47s, Validation Accuracy: 0.9820
+Activation: relu, Layers: 7, Training Time: 11.10s, Validation Accuracy: 0.9760
+Activation: sigmoid, Layers: 3, Training Time: 8.97s, Validation Accuracy: 0.9950
+Activation: sigmoid, Layers: 5, Training Time: 9.78s, Validation Accuracy: 0.9980
+Activation: sigmoid, Layers: 7, Training Time: 10.82s, Validation Accuracy: 0.9990
+Activation: tanh, Layers: 3, Training Time: 8.95s, Validation Accuracy: 0.9910
+Activation: tanh, Layers: 5, Training Time: 9.83s, Validation Accuracy: 0.9880
+Activation: tanh, Layers: 7, Training Time: 10.95s, Validation Accuracy: 0.9880
+Activation: <LeakyReLU name=leaky_re_lu, built=True>, Layers: 3, Training Time: 8.73s, Validation Accuracy: 0.9880
+Activation: <LeakyReLU name=leaky_re_lu, built=True>, Layers: 5, Training Time: 9.57s, Validation Accuracy: 0.9880
+Activation: <LeakyReLU name=leaky_re_lu, built=True>, Layers: 7, Training Time: 10.56s, Validation Accuracy: 0.9820
